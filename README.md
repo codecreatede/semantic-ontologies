@@ -7,9 +7,6 @@
 plantomlfetcher("/home/gaurav/Desktop/po.owl")
 ```
 
-Gaurav \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
+Gaurav Sablok \
 University of Potsdam \
 Potsdam,Germany
